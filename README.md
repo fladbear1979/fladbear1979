@@ -1,23 +1,17 @@
-![user-testing development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwaWcwOWkzdDRhdGU4NHZucDk0dDNhZmN2M3h5dWhicjV0NTJlNW5iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KA593kO0JvXMs/giphy.gif)
-
 # Introducción
-Hola, soy fladbear1979, un desarrollador con una fuerte pasión por la tecnología y la programación. Me encanta resolver problemas y crear soluciones innovadoras.
+¡Hola! Soy fladbear1979, un desarrollador entusiasta con más de 5 años de experiencia en el desarrollo de aplicaciones.
 
 # Habilidades
-- Python
 - JavaScript
-- HTML/CSS
+- Python
 - React
 - Node.js
-- SQL
+- Git
 
 # Proyectos
-- **Proyecto A**: Aplicación web para gestión de tareas.
-- **Proyecto B**: API RESTful para comercio electrónico.
-- **Proyecto C**: Plataforma de aprendizaje en línea.
+- [Proyecto1](https://github.com/fladbear1979/proyecto1): Aplicación web para gestión de tareas.
+- [Proyecto2](https://github.com/fladbear1979/proyecto2): API RESTful para un sistema de reservas.
 
 # Contactos
-Puedes encontrarme en:
-- [LinkedIn](https://www.linkedin.com/in/fladbear1979)
-- [Twitter](https://twitter.com/fladbear1979)
 - Correo: fladbear1979@example.com
+- Twitter: [@fladbear1979](https://twitter.com/fladbear1979)
